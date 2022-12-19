@@ -5,7 +5,7 @@
 
 [x] Criar um repositório.
 
-[ ] Clonar o repositório.
+[x] Clonar o repositório.
 
 [ ] Criar uma página Hello World em HTML, baseado no exercício da aula anterior (link).
 
