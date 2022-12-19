@@ -7,6 +7,6 @@
 
 [x] Clonar o repositório.
 
-[ ] Criar uma página Hello World em HTML, baseado no exercício da aula anterior (link).
+[x] Criar uma página Hello World em HTML, baseado no exercício da aula anterior (link).
 
-[ ] Enviar as alterações para o GitHub.
+[x] Enviar as alterações para o GitHub.
